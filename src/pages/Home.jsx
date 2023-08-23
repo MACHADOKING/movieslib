@@ -1,3 +1,6 @@
+//CSS
+import "./MovieGrid.css";
+// Hooks
 import { useState, useEffect } from "react";
 import MovieCard from "../components/MovieCard";
 
